@@ -3,7 +3,10 @@ import Navbar from './component/Navbar';
 import Hero from './component/Hero';
 import Destinations from './component/Destinations';
 import About from './component/About';
-import Places from './component/Places';
+// import Places from './component/Places';
+import Footer from './component/Footer';
+import Selects from './component/Selects';
+import Carousels from './component/Carousels';
 
 function App() {
   return (
@@ -12,7 +15,11 @@ function App() {
      <Hero/>
      <Destinations/>
      <About/>
-     <Places/>
+     <Selects/>
+     <Carousels/>
+    
+     {/* <Places/> */}
+     <Footer/> 
 
     </div>
   );
