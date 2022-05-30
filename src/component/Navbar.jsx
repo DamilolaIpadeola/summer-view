@@ -30,10 +30,7 @@ const Navbar = () =>  {
             <li>Vacation</li>
             <li>Booking</li>
         </ul>
-        <div className='hidden md:flex '>
-            <BiSearch className='mr-2' size={20}/>
-            <BsPerson size={20}/>
-        </div>
+    
 
         {/* hamburger */}
         <div onClick ={handleNav} className='md:hidden z-10'>

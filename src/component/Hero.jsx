@@ -12,7 +12,7 @@ const Hero = () => {
       src={beachvideo}/>
       <div className='absolute w-full h-full top-0 left-0'></div>
       <div className='absolute top-0 w-full text-center h-full flex flex-col justify-center text-white p-4'>
-        <h1>Elegushi Beach</h1>
+        <h1>Holiday Special</h1>
         <h2 className='mt-3'>First Class beach in Lagos Nigeria</h2>
         <form className='flex justify-between items-center max-w-[700px] mx-auto w-full border p-1 rounded-md text-black bg-gray-100/90 '>
           <div>

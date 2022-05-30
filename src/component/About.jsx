@@ -43,10 +43,12 @@ const About = () => {
                 <div className='flex flex-col my-2'>
                     <label>Desination</label>
                     <select className='border rounded-md p-2' >
-                        <option>Grande Antigua</option>
-                        <option>Grande Antigua</option>
-                        <option>Grande Antigua</option>
-                        <option>Grande Antigua</option>
+                        <option>Elegushi Beach</option>
+                        <option>Eleko Beach</option>
+                        <option>Ibeno Beach</option>
+                        <option>Tarkwa Bay</option>
+                        <option>Atican Beach</option>
+                        <option>Landmark Beach</option>
                     </select>
                 </div>
 
